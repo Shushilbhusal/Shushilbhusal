@@ -1,7 +1,11 @@
-# Hey, I'm Shushil 👋
+<div align="center">
+
+# Hi, I'm Shushil here 👋
 
 💻 IT Student & Full-Stack Developer
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shushilbhusal\&layout=compact\&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushilbhusal&layout=compact&theme=github_dark" />
+
+</div>
