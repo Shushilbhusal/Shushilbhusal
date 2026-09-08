@@ -6,6 +6,6 @@
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushilbhusal&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shushilbhusal&layout=compact&theme=github_dark" />
 
 </div>
