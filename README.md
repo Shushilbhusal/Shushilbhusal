@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shushil here 👋
+# Hi, I'm Shushil 👋
 
 💻 IT Student & Full-Stack Developer
 
